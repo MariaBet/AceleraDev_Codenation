@@ -34,7 +34,7 @@ enum-compat==0.0.3
 et-xmlfile==1.0.1
 hidpidaemon==18.4.5
 html5lib==1.0.1
-httplib2==0.14.0
+httplib2==0.18.0
 idna==2.8
 importlib-metadata==1.5.0
 ipykernel==5.3.0

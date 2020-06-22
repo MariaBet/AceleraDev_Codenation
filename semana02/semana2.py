@@ -21,14 +21,14 @@ def main():
     if file is not None:
         st.subheader('Analisando os dados')
         df = pd.read_csv(file)
-        st.markdown('**Número de linhas:**')
+        st.markdown('**Número de linhas:**')1 - st
         st.markdown(df.shape[0])
         st.markdown('**Número de colunas:**')
         st.markdown(df.shape[1])
         st.markdown('**Visualizando o dataframe**')
         number = st.slider('Escolha o numero de colunas que deseja ver', min_value=1, max_value=20)
         st.dataframe(df.head(number))
-        st.markdown('**Nome das colunas:**')
+        st.markdown('**Nome das colunas:**')1 - st
         st.markdown(list(df.columns))
         exploracao = pd.DataFrame({'nomes' : df.columns, 'tipos' : df.dtypes, 'NA #': df.isna().sum(), 'NA %' : (df.isna().sum() / df.shape[0]) * 100})
         st.markdown('**Contagem dos tipos de dados:**')

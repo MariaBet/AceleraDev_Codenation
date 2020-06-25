@@ -1,4 +1,4 @@
-DATA;ESPÉCIE;SEMEADURA;GERMINAÇÃO;%;Mudas Prontas;PRODUÇÃO
+DATA;ESPÉCIE;SEMEADURA;GERMINAÇÃO;Porcentagem;Mudas Prontas;PRODUÇÃO
 20/03/2020;Castanheira;48;31;;Jacarandá mimoso;15
 20/03/2020;Framboiano;60;15;;Carne de vaca;9
 20/03/2020;Oiti;78;75;;Flamboian;8
@@ -32,52 +32,3 @@ DATA;ESPÉCIE;SEMEADURA;GERMINAÇÃO;%;Mudas Prontas;PRODUÇÃO
 06/05/2020;Manacá da Serra;42;36;;;
 07/05/2020;Tipuana;72;69;;;
 08/05/2020;Marianheiro;23;20;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
